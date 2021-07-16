@@ -1,2 +1,3 @@
-# TOP-sketchpad
-TheOdinProject web development course - Sketchpad project
+# TheOdinProject - Sketchpad
+
+Sketchpad project for practicing DOM manipulation with JavaScript and CSS.
