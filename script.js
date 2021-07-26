@@ -14,7 +14,7 @@ for ( let i = 1; i <= 256 ; i++) {
 btnNewGrid.addEventListener('click', btnNewGridClick);
 
 function btnNewGridClick() {
-  let pixels = prompt('Enter the number of pixels wide (from 16 to 100');
+  let pixels = prompt('Enter the number of pixels wide (from 16 to 100)');
   if (NaN.pixels || pixels < 16 || pixels > 100) {
     alert('Please enter a valid number.');
     return;
